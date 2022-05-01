@@ -1,7 +1,7 @@
 # MLforFunctionalGenomics
 
-Files needed to run the CNN model:
-  CNN.ipynb
+Files needed to run the CNN model: /n
+  CNN.ipynb /n
   myCNNModel.pth
   all.data
   family.label.conversion.txt
